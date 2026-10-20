@@ -2,6 +2,6 @@
 // Si los dejas vacíos, la app funciona solo en el dispositivo donde la abras.
 // La llave que va aquí es la "anon" o "publishable". NUNCA pongas la "service_role" o "secret".
 window.SHADOW_CONFIG = {
-  supabaseUrl: "",   // ejemplo: "https://abcdefghijkl.supabase.co"
-  supabaseKey: ""    // ejemplo: "eyJhbGciOi..." o "sb_publishable_..."
+  supabaseUrl: "https://ohjrwjdufavzfcshcefn.supabase.co/rest/v1/",   // ejemplo: "https://abcdefghijkl.supabase.co"
+  supabaseKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9oanJ3amR1ZmF2emZjc2hjZWZuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0NjQzNzcsImV4cCI6MjEwODA0MDM3N30._nGLrXhbG7B2PNrJV2CzNAPc1JoyYTabU7t_VUAOyOs"    // ejemplo: "eyJhbGciOi..." o "sb_publishable_..."
 };
